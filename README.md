@@ -1,16 +1,15 @@
-### Hi there 👋
+GROUP 6 MEMBERS
 
-<!--
-**CheongMyeong/CheongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cagayat, Jericho(GROUP LEADER)
 
-Here are some ideas to get you started:
+Banzuela, Derick
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cresencio, Allen
+
+Dorado, Nicole
+
+Librodo, Dreico Karlo
+
+Natoza, Jhon Lord
+
+Sapo, Al Japhet
